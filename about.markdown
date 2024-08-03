@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## I am Karim
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+People say if someone asks you to introduce yourself but you cannot talk about your work, age or nationality, how would you do it?
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Personally? I am a creator. I love tinkering around and understand how things work. When I learn something, I have to use it to create something. Currently tinkering around Pytorch, Swift and Ruby. I am also creating my own personal knowledge base as I learn things.
