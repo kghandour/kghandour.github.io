@@ -8,7 +8,7 @@ layout: home
 <div class="col-9">
 <h1>Ahlan!</h1>
 
-<p>My name is Karim, and I like creating things. I love challenges and learning new things through experimentation. My life goal is to make the world slightly better than when I was born into it. </p>
+<p>My name is Karim, and I will change the world. My life goal is to make the world slightly better than when I was born into it.</p>
 
 <p>My philosophy is if there is something I need that is not available, I will try to make it myself. I love opensource, and would rather opensource everything I make - which I have done so far, and hopefully continue doing so for a long time. </p>
 
@@ -53,4 +53,4 @@ Reach out <a href='mailto:karim@kghandour.com'>karim@kghandour.com</a></p>
 
 For a full list of projects, checkout my [Github](https://github.com/kghandour)
 
-## Blog
+# Blog

@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "The story so far"
+date:   2024-08-04 16:01:59 +0200
+categories: kghandour
+---
+I believe I can pinpoint the moment my life's trajectory was set. 
+
+Our family's computer lied in one corner of my parents' bedroom. A low resolution CRT monitor connected to a basic Windows XP computer. I remember the black BIOS menu of the Gigabyte motherboard with the Energy Star logo on the right side of the screen. I remember the nights I spent playing Icy-Tower and FIFA 98. But then I also remember my fascination with tweaking windows, that I decided to see what happens when I completely remove windows and try to reinstall it myself. I spent nights checking forums, downloading a lot of different ISO variants of windows and trying each of them. And at that moment, I fell in love. 
+
+A couple of years passed and my interest in computers kept on increasing. Then my brother introduced me to a new game, World of Warcraft, and because we were just kids we decided to play on a private server. That memory of creating a Nightelf Druid, exploring Azeroth while doing quests still brings a smile to my face. My love for tweaking kicked in again, and in August 2009, I decided to go through the research and actually spin up my local private server. What can I say? The possibility of flying as a Game-Master and have the power to spawn and instakill mobs was too good of an opportunity to miss. That was my first introduction to networking and SQL. A couple of months then I moved to playing on a private server of Silkroad Online called Nordic European SRO (NeSRO). I used to watch a lot of epic montages of Silkroad gameplay by [FireWaveZz](https://www.youtube.com/@scatchntrance). So I decided to make some myself. A 13 years old Karim, trying to understand how to record the computer screen, how to edit videos and sync the frames with music, and build this anonymous youtube channel. Then one by one I made a name for myself on that server, and I got recruited as a Game Master and Forum Administrator there. I started making trailers for that private server, understanding how to customize a MyBB forum, learn SRO commands and a lot more. Our server did not allow for anyone to change their account password - so I thought to myself, how hard could that be? This was my actual real introduction to HTML, CSS and PHP, and boy, it was one hell of a journey. I even got to talk to FireWaveZz at some point and we judged a video contest for NeSRO at some point. I also recall fake going to sleep on school nights just so I can hop on the private server and play. Following that experience, I tried to pick up some Visual Basic and started creating very small programs. I got hooked on watching youtube tutorials, especially from people like [TheNewBoston](https://www.youtube.com/@thenewboston). Then in High-school, I kept on experimenting with different operating systems - from Ubuntu and its variants to even installing MacOS on my windows laptop (Hackintosh). Fun fact, I flexed that experience on Twitter and that's how I got to meet one of the coolest people and one of the closest friends I have. 
+
+
+
+> Luck is what happens when preparation meets opportunity
+- Seneca the Younger
+
+
