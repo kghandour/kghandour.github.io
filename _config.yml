@@ -28,6 +28,12 @@ url: "https://kghandour.com" # the base hostname & protocol for your site, e.g. 
 twitter_username: itskghandour
 github_username:  kghandour
 show_excerpts: true
+author:
+  name: Karim ElGhandour
+  email: karim@kghandour.com
+
+header_pages:
+  - home
 
 # Build settings
 remote_theme: jekyll/minima
